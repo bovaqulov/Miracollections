@@ -1,8 +1,8 @@
 import telebot
 
-TOKEN = '7275258384:AAHTX92bfd4l27dHI322pl9pJZh8BGso6bg'
+TOKEN = 'BOT_TOKEN'
 
-WEBHOOK_URL = 'https://d4ca-95-214-210-98.ngrok-free.app'
+WEBHOOK_URL = 'WEB_SITE'
 
 bot = telebot.TeleBot(TOKEN)
 
