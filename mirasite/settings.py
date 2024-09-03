@@ -130,5 +130,5 @@ STATICFILES_DIRS = [
 
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 
-BOT_TOKEN = '7275258384:AAHTX92bfd4l27dHI322pl9pJZh8BGso6bg'
-BOT_URL = 'https://t.me/Main1testBOT'
+BOT_TOKEN = 'BOT_TOKEN'
+BOT_URL = 'BOT_URL'
